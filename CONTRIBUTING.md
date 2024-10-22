@@ -69,12 +69,7 @@ We are excited to have you contribute to **SuggestKaro**! Your help is essential
 ## Code of Conduct
 By contributing, you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a welcoming and inclusive environment for all project contributors.
 
----
-
 Thank you for contributing to **SuggestKaro**! We appreciate your help in making this project a success.
-```
-
----
 
 You can modify this template according to your needs and add any additional guidelines you wish to enforce. Make sure to replace links like `[imdeepakyadav]` with the actual repository URL once created.
 
